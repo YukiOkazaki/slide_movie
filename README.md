@@ -1,5 +1,5 @@
 # slide_movie
-CS解説のスライドを音声読み上げ付きで動画化します．
+CS解説のスライドを音声読み上げ付きで動画化します．  
 参考：[GoogleスライドとOpen JTalkで動画作成 - Qiita](https://qiita.com/mananam/items/0007ec2bf69cf3132413)
 
 ## スライドから画像，シナリオを生成
